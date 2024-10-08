@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>STAR WORKS</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header-outer-div">
+        <div class="header-nav">
+          <div class="header-nav-button">
+            <i class="fa-solid fa-list"></i>
+          </div>
+          <div class="header-nav-logo"></div>
+          <div class="header-nav-search">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </div>
+        </div>
+        <div class="header-panel">
+          <div class="header-panel-text">
+            <p>For India,by an Indian</p>
+            <p>Brand</p>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class="supportive-items">
+        <div class="supportive-items-image"></div>
+        <p class="supportive-items-text">
+          Powered by most trusted and global technology partners
+        </p>
+        <div class="supportive-items-text2">
+          <p>
+            Zebronics proudly becomes the 1st Indian brand to launch laptops
+            with Dolby® Atmos promising an immersive aural experience. These
+            laptops are powered by fast and efficient Intel® processors and
+            Windows 11 operating system
+          </p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
